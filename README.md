@@ -10,14 +10,16 @@ Hi There 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medha08&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medha08)
+
 
 
 
 <!--
 
+
 Cool stuff to add later 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Medha08)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medha08)
 
 -->
